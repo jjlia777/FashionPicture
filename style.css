@@ -1,0 +1,40 @@
+#foto {
+    height: 300px;
+    width: 300px;
+    border-radius: 150px;
+    background-size: cover;
+    background-position: 50%;
+    margin: 20px;
+}
+#camera {
+    width: 640px;
+    margin: 20px;
+}
+.container {
+    margin: 0 150px;
+    display: flex;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.logo {
+    width: 135px;
+}
+.head {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+header {
+    padding: 0 15px;
+    background-color: blue;
+    display: flex;
+    align-content: center;
+}
